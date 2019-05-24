@@ -6,8 +6,7 @@ public class Casa {
 	private int codigoPostal;
 	
 	/**
-	 * Un equipo de limpiadores deja la casa libre de germenes
-	 * y desinfecta todas las superficies
+	 * Un equipo de ladrones te deja la casa limpia y roba hasta el cobre de las paredes
 	 */
 	public void limpiarCasa() {
 		String mensajito="Te hemos limpiado la casa estas arruinado";
