@@ -9,7 +9,7 @@ public class Casa {
 	 * Un equipo de ladrones te deja la casa limpia y roba hasta el cobre de las paredes
 	 */
 	public void limpiarCasa() {
-		String mensajito="Te hemos limpiado la casa estas arruinado";
+		String mensajito="Te hemos limpiado la casa,está desinfectada y nadie te ha robado";
 		System.out.println(mensajito);
 	}
 	
